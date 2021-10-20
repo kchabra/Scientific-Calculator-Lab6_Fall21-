@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-public class SciCalculator {
+public class SciCalculator {//Scientific Calculator for Lab 4, cop3502c
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
 
